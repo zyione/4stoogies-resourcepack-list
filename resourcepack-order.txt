@@ -1,4 +1,5 @@
 # Highest priority first; published from Minecraft by ModSync
+Enchantment Outlines.zip
 Serified Font v1.1 f1-34.zip
 Whimscape X FA+Player.zip
 FA+Player-v1.1.zip
